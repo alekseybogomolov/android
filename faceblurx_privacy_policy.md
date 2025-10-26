@@ -29,6 +29,10 @@ Google AdMob: Used to display advertisements in the App. AdMob may collect devic
 
 Google User Messaging Platform (UMP): Used to request and manage user consent for data collection, as required by privacy regulations like GDPR.
 
+Firebase Analytics: Used to collect anonymous usage statistics (e.g., which features are used most) to help improve the App. This service does not collect personal information.
+
+Firebase Crashlytics: Used to automatically collect reports on app crashes and errors. This helps me identify and fix bugs to improve the App's stability.
+
 Google ML Kit: Used for the on-device face detection feature. This service processes photo data locally on your device and does not send your images to Google.
 
 Link to the privacy policy of third-party service providers used by the App:
